@@ -1,0 +1,193 @@
+{
+	"games": [
+		{
+			"name": "Minecraft",
+			"image": "https://image.api.playstation.com/vulcan/img/cfn/11307x4B5WLoVoIUtdewG4uJ_YuDRTwBxQy0qP8ylgazLLc01PBxbsFG1pGOWmqhZsxnNkrU3GXbdXIowBAstzlrhtQ4LCI4.png",
+			"description": "Minecraft är ett äventyrs- och byggdatorspel. Det utvecklades först av Markus Persson och sedan av företaget Mojang som Persson grundade. Minecraft har funnits till försäljning via spelets webbplats sedan tidigt i utvecklingen.",
+			"released": "2009",
+			"publisher": "Mojang"
+		},
+		{
+			"name": "Grand Theft Auto",
+			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/GTA_-_Box_Front.jpg/220px-GTA_-_Box_Front.jpg",
+			"description": "Grand Theft Auto (GTA) är det första spelet i den framgångsrika GTA-serien",
+			"released": "1997",
+			"publisher": "DMA Design"
+		},
+		{
+			"name": "Grand Theft Auto 2",
+			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/GTA2_Box_art.jpg/220px-GTA2_Box_art.jpg",
+			"description": "Grand Theft Auto 2 är det andra spelet i Grand Theft Auto-serien. Grand Theft Auto 2 förkortas vanligen GTA2.",
+			"released": "1999",
+			"publisher": "DMA Design"
+		},
+		{
+			"name": "Grand Theft Auto III",
+			"image": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/AC47Y3/306bd460105e4ee7873ff79ffc0f78e8.jpg/f/grand-theft-auto-iii.jpg?borderless=1&width=1920",
+			"description": "Grand Theft Auto III is a 2001 action-adventure game developed by DMA Design and published by Rockstar Games. It is the first main entry in the Grand Theft Auto series since 1999's Grand Theft Auto 2.",
+			"released": "2001",
+			"publisher": "Rockstar Games"
+		},
+		{
+			"name": "Grand Theft Auto IV",
+			"image": "https://cdn-products.eneba.com/resized-products/0996bd00654d4c0dd0d5d1af956b5445_350x200_1x-0.jpg",
+			"description": "Grand Theft Auto IV, också känt under förkortningen GTA IV eller GTA 4, är ett actionäventyrsspel från 2008, utvecklat av Rockstar North och gavs ut av Rockstar Games.",
+			"released": "2008",
+			"publisher": "Rockstar Games"
+		},
+		{
+			"name": "Grand Theft Auto V",
+			"image": "https://cdn-products.eneba.com/resized-products/t0zqmqhdcxppyol3mtlg_350x200_1x-0.jpg",
+			"description": "Grand Theft Auto V, vanligtvis förkortat till GTA V, är ett TV-spel i actiongenren utvecklat av Rockstar North och gavs ut av Rockstar Games den 17 september 2013 till Playstation 3 och Xbox 360, samt den 18 november 2014 till Playstation 4 och Xbox One.",
+			"released": "2009",
+			"publisher": "Rockstar Games"
+		},
+		{
+			"name": "Snake",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cgasnake.png/240px-Cgasnake.png",
+			"description": "Snake är ett datorspel som går ut på att man ska styra en orm och plocka små punkter som ger poäng",
+			"released": "1978",
+			"publisher": "Okänd"
+		},
+		{
+			"name": "PlayerUnknown's Battlegrounds",
+			"image": "https://upload.wikimedia.org/wikipedia/en/3/3d/PlayerUnknown%27s_Battlegrounds_Steam_Logo.jpg",
+			"description": "PlayerUnknown's Battlegrounds (PUBG) är ett flerspelarspel med Battle Royale-baserat tema. Spelet släppes som betaversion till operativsystemet Windows den 23 mars 2017 via speltjänsten Steam. ",
+			"released": "2017",
+			"publisher": "PUBG Corporation"
+		},
+		{
+			"name": "Fortnite",
+			"image": "https://cdn2.unrealengine.com/battle-pass-chapter-2-season-6-1920x1080-dc8eb73dc494.jpg",
+			"description": "Fortnite är ett onlinespel som släpptes 2017 och utvecklats av Epic Games. Spelet finns i olika spellägen: Fortnite: Save the World som är ett co-op-överlevnadsspel, och Fortnite Battle Royale som är ett gratis flerspelarspel med Battle Royale-inspirerat tema där upp till 100 spelare möter varandra.",
+			"released": "2017",
+			"publisher": "Epic Games"
+		},
+		{
+			"name": "Counter Strike",
+			"image": "https://highxtar.com/wp-content/uploads/2020/06/thumb-counter-strike-1.6.jpg",
+			"description": "Counter-Strike [ˈkaʊntəˌstɹaɪk] (förkortat CS) är ett datorspel ursprungligen utvecklat som en modifikation till datorspelet Half-Life. Senare gjordes spelet till ett självständigt datorspel av Valve Corporation med Sierra On-Line som utgivare.",
+			"released": "2000",
+			"publisher": "Valve Corporation"
+		},
+		{
+			"name": "Counter Strike: Condition Zero",
+			"image": "https://counter-strike-download.com/wp-content/uploads/2021/04/Counter-Strike-Condition-Zero-pc-game-1.jpg",
+			"description": "Counter-Strike: Condition Zero är ett PC-spel som utgör uppföljare till Counter-Strike och släpptes den 21 mars 2004.",
+			"released": "2004",
+			"publisher": "Valve Corporation"
+		},
+		{
+			"name": "Counter Strike: Source",
+			"image": "https://i.ibb.co/yRycwML/css-menu.jpg",
+			"description": "Counter-Strike: Source är en ny version av datorspelet Counter-Strike. Spelet släpptes tillsammans med datorspelet Half-Life 2, i november 2004, och använde till en början samma spelmotor, men i juni 2010 uppgraderades den till samma version av Source-motorn som, bland annat, Team Fortress 2 använde.",
+			"released": "2004",
+			"publisher": "Valve Corporation"
+		},
+		{
+			"name": "Counter Strike: Global Offensive",
+			"image": "http://media.steampowered.com/apps/csgo/blog/images/fb_image.png?v=6",
+			"description": "Counter-Strike: Global Offensive (förkortat CS:GO) är ett förstapersonsskjutspel utvecklat av Valve Corporation och Hidden Path Entertainment, och utgivet av Valve 2012.",
+			"released": "2012",
+			"publisher": "Valve Corporation"
+		},
+		{
+			"name": "Team Fortress Classic",
+			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Team_Fortress_Classic_box.jpg/220px-Team_Fortress_Classic_box.jpg",
+			"description": "Team Fortress Classic, eller TFC, också känt som Team Fortress 1.5,[2] är ett flerspelarspel inom genren förstapersonsskjutare. Spelet utvecklades och utgavs 1999 av Valve Corporation.",
+			"released": "1999",
+			"publisher": "Valve Corporation"
+		},
+		{
+			"name": "Team Fortress 2",
+			"image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Tf2_standalonebox.jpg",
+			"description": "Team Fortress 2 är en gratis förstapersonsskjutare med lagbaserat multiplayer som är utvecklad av Valve Corporation. Spelet som är en uppföljare till Team Fortress Classic släpptes ursprungligen som en del i The Orange Box oktober 2007 till Microsoft Windows, Xbox 360 och senare till Playstation 3.",
+			"released": "2006",
+			"publisher": "Valve Corporation"
+		},
+		{
+			"name": "World of Warcraft",
+			"image": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/2356W4/c266a360462f4c169d872ab6986306f7.png/f/world-of-warcraft-new-player-edition.png",
+			"description": "World of Warcraft, ofta förkortat WoW, är ett MMORPG utvecklat av Blizzard Entertainment för Microsoft Windows och Mac OS och är det fjärde spelet i ordningen som släppts inom Warcraft-universumet.",
+			"released": "2004",
+			"publisher": "Blizzard Entertainment"
+		},
+		{
+			"name": "Tibia",
+			"image": "https://i.ytimg.com/vi/OpAaLT_PTCU/maxresdefault.jpg",
+			"description": "Tibia är ett MMORPG som släpptes 1997 av CipSoft GmbH. CipSoft GmbH underhåller och utvecklar fortfarande spelet och servrarna.",
+			"released": "1997",
+			"publisher": "CipSoft GmbH"
+		},
+		{
+			"name": "Dota 2",
+			"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg?t=1618283868",
+			"description": "Dota 2 är ett actionorienterat strategidatorspel med fantasytema. Spelet utvecklas av Valve Corporation som en uppföljare till Warcraft III: The Frozen Throne-kartan Defense of the Ancients.",
+			"released": "2012",
+			"publisher": "Valve Corporation"
+		},
+		{
+			"name": "Overwatch",
+			"image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0714/VBANminggz6xesnf7PokdsT4.png",
+			"description": "Overwatch är ett lagbaserat taktiskt flerspelarspel i genren förstapersonsskjutare utvecklat och utgivet av Blizzard Entertainment.",
+			"released": "2016",
+			"publisher": "Blizzard Entertainment"
+		},
+		{
+			"name": "Call of Duty",
+			"image": "https://upload.wikimedia.org/wikipedia/en/4/41/Codbox.jpg",
+			"description": "Call of Duty är ett datorspel i förstapersonsperspektiv som är utvecklat av Infinity Ward och distribuerat av Activision. Spelet utspelar sig under andra världskriget och är det första i Call of Duty-serien.",
+			"released": "2003",
+			"publisher": "Activision"
+		},
+		{
+			"name": "Call of Duty 2",
+			"image": "https://cdn-products.eneba.com/resized-products/zGh-KwK4rB3Y9IEOo47yiX45_LxbeXx9s2YFiIk7lVY_350x200_1x-0.jpeg",
+			"description": "Call of Duty 2 är ett spel i förstapersonsperspektiv, uppföljare till Call of Duty. Spelet är utvecklat av Infinity Ward och distribuerat av Activision. Det utspelar sig under andra världskriget och det finns både ett enspelarläge och flerspelarläge.",
+			"released": "2005",
+			"publisher": "Activision"
+		},
+		{
+			"name": "Call of Duty 3",
+			"image": "https://scale.coolshop-cdn.com/product-media.coolshop-cdn.com/A29GE8/5f2f477d74f54fd89149f6960d73bd2d.jpg/f/call-of-duty-3.jpg?borderless=1&width=1920",
+			"description": "Call of Duty 3 är det tredje spelet i Call of Duty-serien, och utspelar sig under andra världskriget. Spelet utveckaldes av Treyarch[1], och finns till Playstation 2, Playstation 3, Xbox, Xbox 360 och Wii. Spelet släpptes i Sverige november-december 2006. ",
+			"released": "2006",
+			"publisher": "Activision"
+		},
+		{
+			"name": "Call of Duty: Modern Warfare",
+			"image": "https://image.api.playstation.com/vulcan/img/cfn/1130791_COqLRw6IGlDVHxyV8aqC9_YaF0sCN8IbOlVhzJ6sWm5tlpKTjN8npK2vA_mUJUdyQjP4-U4rEnk7cScmlvoLzXi7.png",
+			"description": "Call of Duty: Modern Warfare är ett Förstapersonsskjutarspel utvecklad av Infinity Ward och utgiven av Activision. Det är sextonde spelet i Call of Duty-seriens som är en soft-reboot av Modern Warfare-serien.",
+			"released": "2019",
+			"publisher": "Activision"
+		},
+		{
+			"name": "Call of Duty: Modern Warfare 2",
+			"image": "https://image.api.playstation.com/vulcan/img/rnd/202008/1900/lTSvbByTYMqy6R22teoybKCg.png",
+			"description": "Call of Duty: Modern Warfare 2, mest känd som Modern Warfare 2, MW2 eller COD 6, är ett förstapersonsskjutspel utvecklat av Infinity Ward och publicerat av Activision för Microsoft Windows, PlayStation 3 samt Xbox 360.",
+			"released": "2009",
+			"publisher": "Activision"
+		},
+		{
+			"name": "Call of Duty: Black Ops 2",
+			"image": "https://upload.wikimedia.org/wikipedia/en/0/05/Call_of_Duty_Black_Ops_II_box_artwork.png",
+			"description": "Call of Duty: Black Ops II är ett skjutspel inom Call of Duty-spelserien, utvecklat av Treyarch och ges ut av Activision. Det är det nionde spelet i serien.",
+			"released": "2012",
+			"publisher": "Activision"
+		},
+		{
+			"name": "Call of Duty: Black Ops 3",
+			"image": "https://upload.wikimedia.org/wikipedia/en/b/b1/Black_Ops_3.jpg",
+			"description": "Call of Duty: Black Ops III är en förstapersonsskjutare utvecklat av Treyarch och utgivet av Activision.[2] Spelet släpptes till Microsoft Windows, Playstation 3, Playstation 4, Xbox 360 och Xbox One den 6 november 2015.",
+			"released": "2015",
+			"publisher": "Activision"
+		},
+		{
+			"name": "Call of Duty: Black Ops 4",
+			"image": "https://image.api.playstation.com/vulcan/img/cfn/11307_5hpWaHKJtp9AXjlv7IxLsx1epxAQKWoYaJG1J-QtMkOovpU7HWyd8AYxyykG6DfhKXHdii3BM4dIj7hppT4k4YHVEW.jpg",
+			"description": "Call of Duty: Black Ops 4 (stiliserad som Call of Duty: Black Ops IIII) är en förstapersonsskjutare utvecklad av Treyarch och utgiven av Activision. Den släpptes till Microsoft Windows, Playstation 4 och Xbox One. ",
+			"released": "2018",
+			"publisher": "Activision"
+		},
+	]
+}
